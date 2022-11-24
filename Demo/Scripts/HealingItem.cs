@@ -2,7 +2,6 @@ using UnityEngine;
 
 namespace FlMr_Inventory.Demo
 {
-    [CreateAssetMenu(fileName = "HealingItem", menuName = "Item/HealingItem")]
     public class HealingItem : ItemBase, IUsable, IStoreItem, ICashable, IDeletable
     {
         #region IUsableÇÃóvêø

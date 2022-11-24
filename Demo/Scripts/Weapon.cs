@@ -2,7 +2,6 @@ using UnityEngine;
 
 namespace FlMr_Inventory.Demo
 {
-    [CreateAssetMenu(menuName = "Item/Weapon", fileName = "Weapon")]
     public class Weapon : ItemBase, IUsable
     {
         /// <summary>
